@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+   padding: 0;
+ }
+body{
+    background-color: rgb(207, 226, 220);
+    }
+.style1{
+    max-width: 1100px;
+    background-color: #8B9EBD;
+    margin: 0 auto;
+    padding: 20px;
+}
+.propile{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.image{
+    width: 200px;
+    height: 140px;
+    padding: 0%;
+}
+.intudious{
+    float: left;
+    padding: 10px;
+    padding-top: 0px;
+}
+.h3{padding: 0px;}
+.h4{padding: 0px;}
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(17, 17, 16);
+}
+.contack{
+    float: right;
+    padding: 30px;
+}
+.contack a{
+    color:green;
+}
+.contack a:hover{
+    color:tomato
+}
+.div-clear{
+    clear: both;
+}
+.hr{
+    border:solid rgb(250, 3, 3) 2px;
+}
+.hr2{
+    border:solid rgb(250, 3, 3) 1px;
+}
+.all-hr{
+    border: solid black 1px;
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+    color:green;
+}
+#id1{
+    color: black;
+}
+.life{
+    color: red;
+    margin: 0 auto;
+    text-indent: 10px;
+    font-size: 20px;
+}
+.about{
+    text-align: center;
+    color: rgb(130, 3, 248);
+    font-size: 30px;
+    background-color: chartreuse;
+}
+#id2{text-indent: -2%;}
+.style2{
+    float: left;
+    text-indent: 20px;
+}
+.both{
+    width: 270px;
+    float: left;
+}
+.style3{
+    text-align: center;
+    color: red;
+}
+#id3{color: green;}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: tomato; 
+    font-size: 20px;
+}
+.footer a{
+    text-decoration: none;
+}
+.footer a:hover{
+    border-bottom: solid red ;
+    color: tomato;
+}
+.style4{ padding: 10px;}
